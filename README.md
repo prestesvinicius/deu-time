@@ -12,6 +12,10 @@ O MVP proposto continha as seguintes funcionalidades:
 * Confirmar participação em eventos esportivos
 * Visualizar o perfil de outros usuários
 
+## Servidor Node-red
+No desenvolvimento do aplicativo além do código em Swift desenvolvemos um flow em node-red, para conectar nossas informações a um servidor na nuvem fornecido pela IBM cloud.
+O flow criado pode ser acessado pelo arquivo 'deu-time-flow.json'.
+
 ## Estrutura do app
 Dentro do aplicativo foram desenvolvidas nove telas, algumas estáticas disponibilizando informações retiradas da API e outras dinâmicas que carregavam informações a partir do clique na tela anterior. Abaixo é possivel visualizar o funcionamento de cada tela em maiores detalhes.
 ### Tela de Login
@@ -41,9 +45,3 @@ Dentro do aplicativo foram desenvolvidas nove telas, algumas estáticas disponib
 ### Tela de Visualização de Perfil 
 <img src="https://github.com/prestesvinicius/deu-time/blob/main/telaUser.png" alt="Alt Text" width="300">
 
-
-
-
-
-
-No desenvolvimento do aplicativo além do código em Swift desenvolvemos um flow em node-red, para conectar nossas informações a um servidor na nuvem fornecido pela IBM cloud.
