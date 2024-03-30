@@ -15,7 +15,7 @@ O MVP proposto continha as seguintes funcionalidades:
 ## Estrutura do app
 Dentro do aplicativo foram desenvolvidas nove telas, algumas estáticas disponibilizando informações retiradas da API e outras dinâmicas que carregavam informações a partir do clique na tela anterior. Abaixo é possivel visualizar o funcionamento de cada tela em maiores detalhes.
 ### Tela de Login
-![Alt Text](https://github.com/prestesvinicius/deu-time/blob/main/telaLogin.jpeg)
+<img src="https://github.com/prestesvinicius/deu-time/blob/main/telaLogin.jpeg" alt="Alt Text" width="300">
 ### Tela Principal
 
 ### Tela de Criação de Evento
