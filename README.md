@@ -21,30 +21,30 @@ Além do desenvolvimento do aplicativo em Swift, implementamos um fluxo em Node-
 O aplicativo consiste em nove telas, algumas estáticas que exibem informações retiradas da API e outras dinâmicas que carregam informações a partir de interações do usuário. Abaixo, você pode ver o funcionamento de cada tela em maiores detalhes.
 
 ### Tela de Login
-![Tela de Login](https://github.com/prestesvinicius/deu-time/blob/main/telaLogin.jpeg)
+<img src="https://github.com/prestesvinicius/deu-time/blob/main/telaLogin.jpeg" alt="Alt Text" width="300">
 
 ### Tela Principal
-![Tela Principal](https://github.com/prestesvinicius/deu-time/blob/main/HomeView.gif)
+<img src="https://github.com/prestesvinicius/deu-time/blob/main/HomeView.gif" alt="Alt Text" width="300">
 
 ### Tela de Criação de Evento
-![Tela de Criação de Evento](https://github.com/prestesvinicius/deu-time/blob/main/novoEvento.gif)
+<img src="https://github.com/prestesvinicius/deu-time/blob/main/novoEvento.gif" alt="Alt Text" width="300">
 
 ### Tela de Perfil do Usuário
-![Tela de Perfil do Usuário](https://github.com/prestesvinicius/deu-time/blob/main/TelaOwnUser.png)
+<img src="https://github.com/prestesvinicius/deu-time/blob/main/TelaOwnUser.png" alt="Alt Text" width="300">
 
 ### Tela de Modalidade
-![Tela de Modalidade](https://github.com/prestesvinicius/deu-time/blob/main/TelaModalidade.png)
+<img src="https://github.com/prestesvinicius/deu-time/blob/main/TelaModalidade.png" alt="Alt Text" width="300">
 
 ### Tela de Espaço
-![Tela de Espaço](https://github.com/prestesvinicius/deu-time/blob/main/telaEspaco.gif)
+<img src="https://github.com/prestesvinicius/deu-time/blob/main/telaEspaco.gif" alt="Alt Text" width="300">
 
 ### Tela de Região
-![Tela de Região](https://github.com/prestesvinicius/deu-time/blob/main/TelaRegião.png)
+<img src="https://github.com/prestesvinicius/deu-time/blob/main/TelaRegião.png" alt="Alt Text" width="300">
 
 ### Tela de Evento
-![Tela de Evento](https://github.com/prestesvinicius/deu-time/blob/main/telaEvento.gif)
+<img src="https://github.com/prestesvinicius/deu-time/blob/main/telaEvento.gif" alt="Alt Text" width="300">
 
 ### Tela de Visualização de Perfil 
-![Tela de Visualização de Perfil](https://github.com/prestesvinicius/deu-time/blob/main/telaUser.png)
+<img src="https://github.com/prestesvinicius/deu-time/blob/main/telaUser.png" alt="Alt Text" width="300">
 
 Este projeto foi uma realização conjunta da equipe, e estamos animados para futuras melhorias e desenvolvimentos!
