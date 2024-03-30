@@ -16,16 +16,30 @@ O MVP proposto continha as seguintes funcionalidades:
 Dentro do aplicativo foram desenvolvidas nove telas, algumas estáticas disponibilizando informações retiradas da API e outras dinâmicas que carregavam informações a partir do clique na tela anterior. Abaixo é possivel visualizar o funcionamento de cada tela em maiores detalhes.
 ### Tela de Login
 <img src="https://github.com/prestesvinicius/deu-time/blob/main/telaLogin.jpeg" alt="Alt Text" width="300">
+
 ### Tela Principal
+<img src="https://github.com/prestesvinicius/deu-time/blob/main/HomeView.gif" alt="Alt Text" width="300">
 
 ### Tela de Criação de Evento
-### Tela de Perfil do Usuário
-### Tela de Modalidade
-### Tela de Espaço
-### Tela de Região
-### Tela de Evento
-### Tela de Visualização de Perfil 
+<img src="https://github.com/prestesvinicius/deu-time/blob/main/novoEvento.gif" alt="Alt Text" width="300">
 
+### Tela de Perfil do Usuário
+<img src="https://github.com/prestesvinicius/deu-time/blob/main/TelaOwnUser.png" alt="Alt Text" width="300">
+
+### Tela de Modalidade
+<img src="https://github.com/prestesvinicius/deu-time/blob/main/TelaModalidade.png" alt="Alt Text" width="300">
+
+### Tela de Espaço
+<img src="https://github.com/prestesvinicius/deu-time/blob/main/telaEspaco.gif" alt="Alt Text" width="300">
+
+### Tela de Região
+<img src="https://github.com/prestesvinicius/deu-time/blob/main/TelaRegião.png" alt="Alt Text" width="300">
+
+### Tela de Evento
+<img src="https://github.com/prestesvinicius/deu-time/blob/main/telaEvento.gif" alt="Alt Text" width="300">
+
+### Tela de Visualização de Perfil 
+<img src="https://github.com/prestesvinicius/deu-time/blob/main/telaUser.png" alt="Alt Text" width="300">
 
 
 
