@@ -1,5 +1,9 @@
 # Deu Time - Aplicativo de Organização de Eventos Esportivos
 
+## Descrição
+
+Deu Time foi o projeto desenvolvido pela nossa equipe durante a semana final do HackaTruck, um curso intensivo de programação Swift, Internet das Coisas e serviços cognitivos em nuvem oferecido pela IBM em parceria com o Instituto Eldorado. O aplicativo surge como uma solução para um problema comum entre os participantes do grupo: encontrar grupos para praticar esportes de sua preferência na área da cidade onde residem.
+
 ## Autores
 
 - Aliana Wakassugui  
@@ -11,10 +15,6 @@
 - Vinicius Prestes  
 [![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prestesvinicius)
 
-
-## Descrição
-
-Deu Time foi o projeto desenvolvido pela nossa equipe durante a semana final do HackaTruck, um curso intensivo de programação Swift, Internet das Coisas e serviços cognitivos em nuvem oferecido pela IBM em parceria com o Instituto Eldorado. O aplicativo surge como uma solução para um problema comum entre os participantes do grupo: encontrar grupos para praticar esportes de sua preferência na área da cidade onde residem.
 
 ## Funcionalidades
 
