@@ -3,9 +3,9 @@
 ## Autores
 
 - Aliana Wakassugui  
-[![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alienXXVI)
+[![Aliana](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alienXXVI)
 - André Brandão  
-[![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrebr2)
+[![André](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrebr2)
 - Hugo Gustavo  
 [![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ugoincc)
 - Vinicius Prestes  
