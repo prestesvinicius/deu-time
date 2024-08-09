@@ -2,61 +2,73 @@
 
 ## Descrição
 
-Deu Time foi o projeto desenvolvido pela nossa equipe durante a semana final do HackaTruck, um curso intensivo de programação Swift, Internet das Coisas e serviços cognitivos em nuvem oferecido pela IBM em parceria com o Instituto Eldorado. O aplicativo surge como uma solução para um problema comum entre os participantes do grupo: encontrar grupos para praticar esportes de sua preferência na área da cidade onde residem.
-
-## Autores
-
-- Aliana Wakassugui  
-[![Aliana](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alienXXVI)
-- André Brandão  
-[![André](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrebr2)
-- Hugo Gustavo  
-[![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ugoincc)
-- Vinicius Prestes  
-[![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prestesvinicius)
-
+**Deu Time** é um aplicativo desenvolvido pela nossa equipe durante a semana final do **HackaTruck**, um curso intensivo de programação Swift, Internet das Coisas e serviços cognitivos em nuvem oferecido pela IBM em parceria com o Instituto Eldorado. O aplicativo foi criado para resolver o problema de encontrar grupos para praticar esportes nas proximidades da residência dos usuários, conectando pessoas com interesses esportivos semelhantes.
 
 ## Funcionalidades
 
-O MVP (Produto Mínimo Viável) proposto incluía as seguintes funcionalidades:
-- Buscar eventos por modalidade, região da cidade e espaço
-- Criar eventos esportivos em espaços disponibilizados
-- Confirmar participação em eventos esportivos
-- Visualizar o perfil de outros usuários
+O Produto Mínimo Viável (MVP) do Deu Time inclui as seguintes funcionalidades:
 
-## Servidor Node-RED
-
-Além do desenvolvimento do aplicativo em Swift, implementamos um fluxo em Node-RED para conectar nossas informações a um servidor na nuvem fornecido pela IBM Cloud. O fluxo criado está disponível no arquivo 'deu-time-flow.json'.
+- **Busca de Eventos:** Encontre eventos esportivos por modalidade, região da cidade e espaço disponível.
+- **Criação de Eventos:** Organize seus próprios eventos esportivos em espaços públicos ou privados.
+- **Confirmação de Participação:** Confirme sua presença em eventos esportivos e receba atualizações.
+- **Perfil de Usuário:** Visualize e interaja com o perfil de outros participantes.
 
 ## Estrutura do Aplicativo
 
-O aplicativo consiste em nove telas, algumas estáticas que exibem informações retiradas da API e outras dinâmicas que carregam informações a partir de interações do usuário. Abaixo, você pode ver o funcionamento de cada tela em maiores detalhes.
+O aplicativo é composto por nove telas que proporcionam uma experiência intuitiva e envolvente para o usuário:
 
-### Tela de Login
-<img src="https://github.com/prestesvinicius/deu-time/blob/main/telaLogin.jpeg" alt="Alt Text" width="300">
+1. **Tela de Login**
+   <br>
+   <img src="https://github.com/prestesvinicius/deu-time/blob/main/telaLogin.jpeg" alt="Tela de Login" width="300">
 
-### Tela Principal
-<img src="https://github.com/prestesvinicius/deu-time/blob/main/HomeView.gif" alt="Alt Text" width="300">
+2. **Tela Principal**
+   <br>
+   <img src="https://github.com/prestesvinicius/deu-time/blob/main/HomeView.gif" alt="Tela Principal" width="300">
 
-### Tela de Criação de Evento
-<img src="https://github.com/prestesvinicius/deu-time/blob/main/novoEvento.gif" alt="Alt Text" width="300">
+3. **Tela de Criação de Evento**
+   <br>
+   <img src="https://github.com/prestesvinicius/deu-time/blob/main/novoEvento.gif" alt="Tela de Criação de Evento" width="300">
 
-### Tela de Perfil do Usuário
-<img src="https://github.com/prestesvinicius/deu-time/blob/main/TelaOwnUser.png" alt="Alt Text" width="300">
+4. **Tela de Perfil do Usuário**
+   <br>
+   <img src="https://github.com/prestesvinicius/deu-time/blob/main/TelaOwnUser.png" alt="Tela de Perfil do Usuário" width="300">
 
-### Tela de Modalidade
-<img src="https://github.com/prestesvinicius/deu-time/blob/main/TelaModalidade.png" alt="Alt Text" width="300">
+5. **Tela de Modalidade**
+   <br>
+   <img src="https://github.com/prestesvinicius/deu-time/blob/main/TelaModalidade.png" alt="Tela de Modalidade" width="300">
 
-### Tela de Espaço
-<img src="https://github.com/prestesvinicius/deu-time/blob/main/telaEspaco.gif" alt="Alt Text" width="300">
+6. **Tela de Espaço**
+   <br>
+   <img src="https://github.com/prestesvinicius/deu-time/blob/main/telaEspaco.gif" alt="Tela de Espaço" width="300">
 
-### Tela de Região
-<img src="https://github.com/prestesvinicius/deu-time/blob/main/TelaRegião.png" alt="Alt Text" width="300">
+7. **Tela de Região**
+   <br>
+   <img src="https://github.com/prestesvinicius/deu-time/blob/main/TelaRegião.png" alt="Tela de Região" width="300">
 
-### Tela de Evento
-<img src="https://github.com/prestesvinicius/deu-time/blob/main/telaEvento.gif" alt="Alt Text" width="300">
+8. **Tela de Evento**
+   <br>
+   <img src="https://github.com/prestesvinicius/deu-time/blob/main/telaEvento.gif" alt="Tela de Evento" width="300">
 
-### Tela de Visualização de Perfil 
-<img src="https://github.com/prestesvinicius/deu-time/blob/main/telaUser.png" alt="Alt Text" width="300">
+9. **Tela de Visualização de Perfil**
+   <br>
+   <img src="https://github.com/prestesvinicius/deu-time/blob/main/telaUser.png" alt="Tela de Visualização de Perfil" width="300">
 
-Este projeto foi uma realização conjunta da equipe, e estamos animados para futuras melhorias e desenvolvimentos!
+## Servidor Node-RED
+
+Além do desenvolvimento em Swift, criamos um fluxo em Node-RED para conectar as informações do aplicativo a um servidor na nuvem, fornecido pela IBM Cloud. O fluxo completo está disponível no arquivo [`deu-time-flow.json`](./deu-time-flow.json).
+
+## Autores
+
+Este projeto foi desenvolvido em colaboração por:
+
+- **Aliana Wakassugui**  
+  [![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alienXXVI)
+  
+- **André Brandão**  
+  [![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrebr2)
+  
+- **Hugo Gustavo**  
+  [![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ugoincc)
+  
+- **Vinicius Prestes**  
+  [![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prestesvinicius)
